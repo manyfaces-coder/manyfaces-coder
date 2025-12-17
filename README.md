@@ -1,30 +1,29 @@
-<a href="gifs/Madara.gif">
-  <img src="gifs/madara1.gif" alt="shapka gif" style="width:100%;" />
+<a href="gifs/madara1.gif">
+  <img src="gifs/madara1.gif" alt="shapka gif" style="width:100%; height:auto" />
 </a>
 
-<h2 align="center">Привет, Я Олег Семенов</h2>
+<h2 align="center">Привет, я Олег Семенов</h2>
 
----
 
 ## 👋 Обо мне
 
-🐍 Python-разработчик с фокусом на backend
+🐍 **Python-разработчик с фокусом на backend**
 
-⚙️ Работаю с асинхронным Python (FastAPI, Aiogram)
+⚙️ Работаю с асинхронным Python (**FastAPI**, **Aiogram**)
 
-🌐 Проектирую и реализую REST API и webhook-сервисы
+🌐 Проектирую и реализую **REST APIs** и **webhook-based services**
 
-🗄️ Использую PostgreSQL, SQLAlchemy и Alembic
+🗄️ Использую **PostgreSQL**, **SQLAlchemy** и **Alembic**
 
-🐳 Разворачиваю проекты с помощью Docker и Docker Compose
+🐳 Разворачиваю проекты с помощью **Docker** и **Docker Compose**
 
-🔧 Интересуюсь DevOps-подходами, инфраструктурой, масштабированием, серверами и сетями
+🔧 Интересуюсь **DevOps practices**, инфраструктурой, масштабированием, серверами и сетями
 
-📚 Прокачиваю знания в алгоритмах и Computer Science
+📚 Прокачиваю знания в **algorithms** и **Computer Science**
 
 🧠 Люблю разбираться, как системы работают изнутри
 
-🌍 Интересуюсь Интернет-технологиями и веб-экосистемой в целом
+🌍 Интересуюсь **Интернет-технологиями** и веб-экосистемой в целом
 
 <details>
     <summary>
@@ -37,19 +36,18 @@
 
 ## 👋 About me
 
-- 🐍 **Python backend developer**
-- ⚙️ Working with async Python (**FastAPI**, **Aiogram**)
-- 🌐 Design and build **REST APIs** and **webhook-based services**
-- 🗄️ Use **PostgreSQL**, **SQLAlchemy**, and **Alembic**
-- 🐳 Deploy applications using **Docker** and **Docker Compose**
-- 🔧 Interested in **DevOps practices**, infrastructure, scalability, servers, and networking
-- 📚 Improving skills in **algorithms** and **Computer Science**
-- 🧠 Enjoy understanding how systems work under the hood
-- 🌍 Interested in **Internet technologies** and the web ecosystem
+🐍 **Python backend developer**
+⚙️ Working with async Python (**FastAPI**, **Aiogram**)
+🌐 Design and build **REST APIs** and **webhook-based services**
+🗄️ Use **PostgreSQL**, **SQLAlchemy**, and **Alembic**
+🐳 Deploy applications using **Docker** and **Docker Compose**
+🔧 Interested in **DevOps practices**, infrastructure, scalability, servers, and networking
+📚 Improving skills in **algorithms** and **Computer Science**
+🧠 Enjoy understanding how systems work under the hood
+🌍 Interested in **Internet technologies** and the web ecosystem
 
 </details>
 
----
 
 <h2 align="center">🧑‍💻 Технологии и инструменты</h2>
 <p align="center">
@@ -62,7 +60,6 @@
       <img src="icons/pycharm.png" alt="pycharm" width="55" height="55"/>
 </p>
 
----
 <div align="center"> 
   <h2 align="center">Достижения на Leetcode</h2>  
     <p align="center">
