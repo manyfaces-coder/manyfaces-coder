@@ -1,6 +1,8 @@
-<a href="gifs/madara1.gif">
-  <img src="gifs/madara1.gif" alt="shapka gif" style="width:100%; height:auto" />
-</a>
+<p align="center">
+  <a href="gifs/madara1.gif">
+    <img src="gifs/madara1.gif" alt="shapka gif" width="100%" />
+  </a>
+</p>
 
 <h2 align="center">Привет, я Олег Семенов</h2>
 
@@ -79,18 +81,16 @@
 </div>
 
 
-
----
-
-
 <h2 align="center">📱 Связаться со мной:</h2>
 <p align="center">
     <a href="https://t.me/oljick13" target="_blank">
       <img align="center" src="icons/telegram.svg" alt="Telegram icon" width="55" height="55" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:semenovoleg99@yandex.ru" target="_blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/1024px-Yandex_Mail_icon.svg.png" alt="Yandex mail icon" width="55" height="65" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:semenovoleg333@gmail.com" target="_blank">
       <img align="center" src="icons/gmail.svg" alt="Gmail icon" width="55" height="50" />
     </a>
