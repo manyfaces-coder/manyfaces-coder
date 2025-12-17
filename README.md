@@ -86,11 +86,11 @@
     <a href="https://t.me/oljick13" target="_blank">
       <img align="center" src="icons/telegram.svg" alt="Telegram icon" width="55" height="55" />
     </a>
-    &nbsp;&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="1" alt="" />
     <a href="mailto:semenovoleg99@yandex.ru" target="_blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/1024px-Yandex_Mail_icon.svg.png" alt="Yandex mail icon" width="55" height="65" />
     </a>
-    &nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="1" alt="" />
     <a href="mailto:semenovoleg333@gmail.com" target="_blank">
       <img align="center" src="icons/gmail.svg" alt="Gmail icon" width="55" height="50" />
     </a>
