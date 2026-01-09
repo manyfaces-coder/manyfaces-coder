@@ -95,8 +95,13 @@
       <img align="center" src="icons/gmail.svg" alt="Gmail icon" width="55" height="50"/>
     </a>
 </p>
-<p align="center">
-  <a href="gifs/madara1.gif">
-    <img src="gifs/_1.gif" alt="shapka gif" width="100%" />
-  </a>
-</p>
+
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="gifs/madara1.gif">)
+
+[//]: # (    <img src="gifs/_1.gif" alt="shapka gif" width="100%" />)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
