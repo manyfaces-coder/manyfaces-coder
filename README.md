@@ -88,10 +88,15 @@
     </a>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="1" alt="" />
     <a href="mailto:semenovoleg99@yandex.ru" target="_blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/1024px-Yandex_Mail_icon.svg.png" alt="Yandex mail icon" width="55" height="65" />
+      <img align="center" src="icons/Yandex_Mail.png" alt="Yandex mail icon" width="60" height="65" />
     </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="1" height="1" alt="" />
     <a href="mailto:semenovoleg333@gmail.com" target="_blank">
-      <img align="center" src="icons/gmail.svg" alt="Gmail icon" width="55" height="50" />
+      <img align="center" src="icons/gmail.svg" alt="Gmail icon" width="55" height="50"/>
     </a>
+</p>
+<p align="center">
+  <a href="gifs/madara1.gif">
+    <img src="gifs/_1.gif" alt="shapka gif" width="100%" />
+  </a>
 </p>
