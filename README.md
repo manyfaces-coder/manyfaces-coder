@@ -77,6 +77,9 @@
         <a href="https://leetcode.com/olegsemenov99/" target="_blank">
           <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" alt="Badge of olegsemenov99" height="100" width="100" />
         </a>
+        <a href="https://leetcode.com/olegsemenov99/" target="_blank">
+          <img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Badge of olegsemenov99" height="100" width="100" />
+        </a>
     </p>
 </div>
 
