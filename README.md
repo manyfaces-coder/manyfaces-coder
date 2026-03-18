@@ -1,6 +1,6 @@
 <p align="center">
   <a href="gifs/madara1.gif">
-    <img src="gifs/madara1.gif" alt="shapka gif" width="100%" />
+    <img src="gifs/KIROKAZE.gif" alt="shapka gif. Author: KIROKAZE" width="100%" />
   </a>
 </p>
 
